@@ -1,5 +1,5 @@
 export class Table {
-    constructor(dealersCards, playersCards) {
+    constructor(playersCards, dealersCards) {
         this.dealersCards = dealersCards;
         this.playersCards = playersCards;
     }
